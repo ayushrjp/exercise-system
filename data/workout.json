@@ -1,0 +1,11 @@
+[
+    {
+        "time": "2026-04-29 10:17:38.511379",
+        "exercise": "squat",
+        "reps": 1,
+        "score": 82,
+        "stage": "down",
+        "form_label_pred": 1,
+        "form_label_true": 1
+    }
+]

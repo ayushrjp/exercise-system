@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+env/
+venv/
+ENV/
+
+# Sessions & Data
+data/sessions/
+flask_session/
+data/*.db
+data/*.json
+!data/workout.json
+
+# IDE
+.vscode/
+.idea/
+
+# Large Models
+src/pose_landmarker.task

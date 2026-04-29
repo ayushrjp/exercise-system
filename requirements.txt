@@ -1,0 +1,6 @@
+flask
+mediapipe
+opencv-python
+bcrypt
+numpy
+matplotlib
